@@ -5,13 +5,16 @@
 
 ### Techedia solutions - internal
 
-* [SOAP API web service](https://github.com/techedia/Techedia-SOAP-API)
-* InfoTrack
-* SortRefer
-* 
-* [System Monitor](https://github.com/techedia/TechediaSystemMonitor)
-* [Helpdesk\Ticket Email  Processor](https://github.com/techedia/TicketSystemEmailProcessor)
-* [Trello JSON file processor for MI Pack](https://github.com/techedia/TrelloJSONProcessorReporting)
+<ul>
+<li>[SOAP API web service](https://github.com/techedia/Techedia-SOAP-API)</li>
+  <ul>
+  <li>InfoTrack</li>
+  <li>SortRefer</li>
+  </ul>
+<li>[System Monitor](https://github.com/techedia/TechediaSystemMonitor)</li>
+<li>[Helpdesk\Ticket Email  Processor](https://github.com/techedia/TicketSystemEmailProcessor)</li>
+<li>[Trello JSON file processor for MI Pack](https://github.com/techedia/TrelloJSONProcessorReporting)</li>
+</ul>
 
 ### Techedia solutions - external\client
 
