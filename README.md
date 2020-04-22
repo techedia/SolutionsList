@@ -19,10 +19,10 @@
 ### Techedia solutions - external\generic
 
 * [Chatbot](https://github.com/techedia/Chatbot)
-- Chatbot.Web
-- Chatbot.Console
-- Chatbot.Core
-- Chatbot.Database
+  - Chatbot.Web
+  - Chatbot.Console
+  - Chatbot.Core
+  - Chatbot.Database
 
 ### Integrations
 
