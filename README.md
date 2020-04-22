@@ -6,8 +6,9 @@
 ### Techedia solutions - internal
 
 
-### Techedia solutions - external\lcinet
+### Techedia solutions - external\client
 
+[ODBC Connection poller](https://github.com/techedia/ODBC-Connection-Poller)
 
 ### Integrations
 
