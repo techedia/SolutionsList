@@ -5,10 +5,17 @@
 
 ### Techedia solutions - internal
 
+* [SOAP API web service](https://github.com/techedia/Techedia-SOAP-API)
+* InfoTrack
+* SortRefer
+* 
+* [System Monitor](https://github.com/techedia/TechediaSystemMonitor)
+* [Helpdesk\Ticket Email  Processor](https://github.com/techedia/TicketSystemEmailProcessor)
+* [Trello JSON file processor for MI Pack](https://github.com/techedia/TrelloJSONProcessorReporting)
 
 ### Techedia solutions - external\client
 
-[ODBC Connection poller](https://github.com/techedia/ODBC-Connection-Poller)
+* [ODBC Connection poller](https://github.com/techedia/ODBC-Connection-Poller)
 
 ### Integrations
 
