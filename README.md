@@ -22,20 +22,27 @@
 
 ### Integrations
 
+#### SortRefer\SortMove
+
+* [SortRefer CaseDownload console app](https://github.com/techedia/SortRefer-CaseDownload-consoleapp)
+* [Sort Refer ID](TBC)
+
+#### Perfect Portal
+
+* [Perfect Portal Case Download console app](https://github.com/techedia/PerfectPoralCaseDownloadConsoleApp)
+* [Perfect Portal Quote PDF Download console app](https://github.com/techedia/PerfectPoralQuotePDFDownloadConsoleApp)
+
+#### InfoTrack
+
+* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)
+* [InfoTrack Process XML Get Case Type console app](https://github.com/techedia/InfoTrackProcessXMLGetCaseTypeConsoleApp)
 
 
-#### Infotrack
+#### ULS Technologies
 
+* [ULS Technologies console app](https://github.com/techedia/ULSTechnology)
 
-#### PerfectPortal
-
-
-#### ULS Technology
-
-
-#### SortRefer
-
-### Client specific solutions
+## Client specific solutions
 
 
 
