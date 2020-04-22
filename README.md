@@ -16,6 +16,10 @@
 
 * [ODBC Connection poller](https://github.com/techedia/ODBC-Connection-Poller)
 
+### Techedia solutions - external\generic
+
+* [Chatbot](https://github.com/techedia/Chatbot)
+
 ### Integrations
 
 
