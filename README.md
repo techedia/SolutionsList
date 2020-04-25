@@ -33,18 +33,18 @@
 
 #### Perfect Portal
 
-* [Perfect Portal Case Download console app](https://github.com/techedia/PerfectPoralCaseDownloadConsoleApp)
+* [Perfect Portal Case Download console app](https://github.com/techedia/PerfectPoralCaseDownloadConsoleApp) (Kill switch)
 * [Perfect Portal Quote PDF Download console app](https://github.com/techedia/PerfectPoralQuotePDFDownloadConsoleApp)
 
 #### InfoTrack
 
-* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)
+* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)) (Kill switch)
 * [InfoTrack Process XML Get Case Type console app](https://github.com/techedia/InfoTrackProcessXMLGetCaseTypeConsoleApp)
 
 
 #### ULS Technologies
 
-* [ULS Technologies console app](https://github.com/techedia/ULSTechnology)
+* [ULS Technologies console app](https://github.com/techedia/ULSTechnology)) (Kill switch **TO BE ADDED**)
 
 ## Client specific solutions
 
