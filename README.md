@@ -31,23 +31,23 @@
 
 #### SortRefer\SortMove
 
-* [SortRefer CaseDownload console app](https://github.com/techedia/SortRefer-CaseDownload-consoleapp)
+* [SortRefer CaseDownload console app](https://github.com/techedia/SortRefer-CaseDownload-consoleapp) (ClientActiveCheck ????)
 * [Sort Refer ID](TBC)
 
 #### Perfect Portal
 
-* [Perfect Portal Case Download console app](https://github.com/techedia/PerfectPoralCaseDownloadConsoleApp) (Kill switch)
+* [Perfect Portal Case Download console app](https://github.com/techedia/PerfectPoralCaseDownloadConsoleApp) (ClientActiveCheck)
 * [Perfect Portal Quote PDF Download console app](https://github.com/techedia/PerfectPoralQuotePDFDownloadConsoleApp)
 
 #### InfoTrack
 
-* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)) (Kill switch)
+* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)) (ClientActiveCheck)
 * [InfoTrack Process XML Get Case Type console app](https://github.com/techedia/InfoTrackProcessXMLGetCaseTypeConsoleApp)
 
 
 #### ULS Technologies
 
-* [ULS Technologies console app](https://github.com/techedia/ULSTechnology)) (Kill switch **TO BE ADDED**)
+* [ULS Technologies console app](https://github.com/techedia/ULSTechnology)) (ClientActiveCheck **TO BE ADDED**)
 
 ## Client specific solutions
 
