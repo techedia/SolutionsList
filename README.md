@@ -6,8 +6,11 @@
 ### Techedia solutions - internal
 
 * [SOAP API web service](https://github.com/techedia/Techedia-SOAP-API)
-  - Infotrack
-  - SortRefer
+  - ClientActiveCheck.asmx - called by Techedia applications to check they should be active
+  - Infotrack.asmx
+  - SortRefer.asmx
+  - SortReferIDCheck.asmx
+  - ULSTechnology.asmx
 * [System Monitor](https://github.com/techedia/TechediaSystemMonitor)
 * [Helpdesk\Ticket Email  Processor](https://github.com/techedia/TicketSystemEmailProcessor)
 * [Trello JSON file processor for MI Pack](https://github.com/techedia/TrelloJSONProcessorReporting)
