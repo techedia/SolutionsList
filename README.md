@@ -41,13 +41,13 @@
 
 #### InfoTrack
 
-* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)) (ClientActiveCheck)
+* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp) (ClientActiveCheck)
 * [InfoTrack Process XML Get Case Type console app](https://github.com/techedia/InfoTrackProcessXMLGetCaseTypeConsoleApp)
 
 
 #### ULS Technologies
 
-* [ULS Technologies console app](https://github.com/techedia/ULSTechnology)) (ClientActiveCheck **TO BE ADDED**)
+* [ULS Technologies console app](https://github.com/techedia/ULSTechnology) (ClientActiveCheck **TO BE ADDED**)
 
 ## Client specific solutions
 
