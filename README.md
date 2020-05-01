@@ -51,7 +51,9 @@
 
 ## Client specific solutions
 
+### MoneyPlusLegal
 
+* [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra)
 
 
 
