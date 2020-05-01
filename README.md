@@ -53,7 +53,7 @@
 
 ### MoneyPlusLegal
 
-* [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra)
+* [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra) (ClientActiveCheck : YES)
 
 
 
