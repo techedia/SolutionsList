@@ -17,6 +17,7 @@
 
 ### Techedia solutions - external\client
 
+* [Techedia Proclaim Utilitites](https://github.com/techedia/TechediaProclaimUtils)
 * [ODBC Connection poller](https://github.com/techedia/ODBC-Connection-Poller)
 
 ### Techedia solutions - external\generic
