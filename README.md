@@ -32,6 +32,7 @@
 
 #### SortRefer\SortMove
 
+* SOAP API web service is called for this integation : [SOAP API web service](https://github.com/techedia/Techedia-SOAP-API)
 * [SortRefer CaseDownload console app](https://github.com/techedia/SortRefer-CaseDownload-consoleapp) (ClientActiveCheck : YES)
 * [Sort Refer ID](TBC)
 
@@ -42,7 +43,8 @@
 
 #### InfoTrack
 
-* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp) (ClientActiveCheck : YES)
+* SOAP API web service is called for this integation : [SOAP API web service](https://github.com/techedia/Techedia-SOAP-API)
+* [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)
 * [InfoTrack Process XML Get Case Type console app](https://github.com/techedia/InfoTrackProcessXMLGetCaseTypeConsoleApp)
 
 
