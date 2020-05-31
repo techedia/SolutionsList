@@ -56,6 +56,7 @@
 
 ### MoneyPlusLegal
 
+* [Pentacle API - case download](https://github.com/techedia/PentacleClaimsPortalConsole) (ClientActiveCheck : YES)
 * [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra) (ClientActiveCheck : YES)
 
 
