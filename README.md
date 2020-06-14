@@ -47,6 +47,9 @@
 * [InfoTrack Document download console app](https://github.com/techedia/InfoTrackDocumentDownloadConsoleApp)
 * [InfoTrack Process XML Get Case Type console app](https://github.com/techedia/InfoTrackProcessXMLGetCaseTypeConsoleApp)
 
+#### X-Press Legal Services
+
+* [X-Press Legal Services : Case Order and document download](https://github.com/techedia/XPressLegalServicesIntegration/tree/master)
 
 #### ULS Technologies
 
