@@ -27,6 +27,12 @@
   - Chatbot.Console
   - Chatbot.Core
   - Chatbot.Database
+  
+* [PortalIP](https://github.com/techedia/PortalIP)
+  - PortalIP.Web
+  - PortalIP.API
+  - PortalIP.Core
+  - PortalIP.Database
 
 ### Integrations
 
