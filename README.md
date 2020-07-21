@@ -19,7 +19,7 @@
 
 * [Techedia Proclaim Utilitites](https://github.com/techedia/TechediaProclaimUtils) (ClientActiveCheck : YES)
 * [ODBC Connection poller](https://github.com/techedia/ODBC-Connection-Poller)
-* [SFTPConsole]{https://github.com/techedia/SFTPConsole}
+* [SFTPConsole](https://github.com/techedia/SFTPConsole)
 
 ### Techedia solutions - external\generic
 
