@@ -10,7 +10,6 @@
   - Infotrack.asmx
   - SortRefer.asmx
   - SortReferIDCheck.asmx
-  - ULSTechnology.asmx
 * [System Monitor](https://github.com/techedia/TechediaSystemMonitor)
 * [Helpdesk\Ticket Email  Processor](https://github.com/techedia/TicketSystemEmailProcessor)
 * [Trello JSON file processor for MI Pack](https://github.com/techedia/TrelloJSONProcessorReporting)
