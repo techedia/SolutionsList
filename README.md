@@ -20,7 +20,7 @@
 * [ODBC Connection poller](https://github.com/techedia/ODBC-Connection-Poller)
 * [SFTPConsole](https://github.com/techedia/SFTPConsole)
 * [Email Extractor](https://github.com/techedia/EmailExtractor)
-* [PDF Bundler](https://github.com/techedia/techediaProclaimDocBundler)  (ClientActiveCheck : YES) (11/2020 : BUILD IN PROGRESS FOR MONEYPLUS)
+* [PDF Bundler](https://github.com/techedia/techediaProclaimDocBundler)  (ClientActiveCheck : YES)
 
 ### Techedia solutions - external\generic
 
