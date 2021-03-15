@@ -63,12 +63,15 @@
 
 * [ULS Technologies console app](https://github.com/techedia/ULSTechnology) (ClientActiveCheck : YES)
 
+#### Spectra XML funding integration
+
+* [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra) (ClientActiveCheck : YES)
+
 ## Client specific solutions
 
 ### MoneyPlusLegal
 
 * [Pentacle API - case download](https://github.com/techedia/PentacleClaimsPortalConsole) (ClientActiveCheck : YES)
-* [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra) (ClientActiveCheck : YES)
 
 ### Progress Law
 
