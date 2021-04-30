@@ -81,7 +81,7 @@
 ### Keller Lenkner
 
 * [UClaim4Me - New plevin case import](https://github.com/techedia/UClaim4Me)
-* [Secret Commission Lawyers - New plevin case import with documents](/https://github.com/techedia/KLSCLDocProcessing)
+* [Secret Commission Lawyers - New plevin case import with documents](https://github.com/techedia/KLSCLDocProcessing)
 * [c2solutions Acumen API integration](https://github.com/techedia/c2solution-Acumen-API)
 
 ## Web Deveopment
