@@ -72,6 +72,7 @@
 ### MoneyPlusLegal
 
 * [Pentacle API - case download](https://github.com/techedia/PentacleClaimsPortalConsole) (ClientActiveCheck : YES)
+* [Case import data prep and cleanse](https://github.com/techedia/VS_caseimport_datapreprocess/tree/master)
 
 ### Progress Law
 
