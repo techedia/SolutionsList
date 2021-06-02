@@ -25,10 +25,10 @@
 ### Techedia solutions - external\generic
 
 * [Chatbot](https://github.com/techedia/Chatbot)
-  - Chatbot.Web
-  - Chatbot.Console
-  - Chatbot.Core
-  - Chatbot.Database
+  - Chatbot.Database - Class library for Data Access and Database Interactions. Houses all data layer objects, DBContext and repositories.
+  - Chatbot.Core - Class library for utility classes. Houses all Helpers, Exensions, Model classes, API Integrations, Attributes.
+  - Chatbot.Web - ASP.Net MVC web application for the frontend of the chatbot.
+  - Chatbot.Console - C# console application for automating reporting, emailing and sms's
   
 * [PortalIP](https://github.com/techedia/PortalIP)
   - PortalIP.Web
