@@ -59,15 +59,17 @@
 
 * [X-Press Legal Services : Case Order and document download](https://github.com/techedia/XPressLegalServicesIntegration/tree/master)
 
-#### ULS Technologies
-
-* [ULS Technologies console app](https://github.com/techedia/ULSTechnology) (ClientActiveCheck : YES)
-
 #### Spectra XML funding integration
 
 * [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra) (ClientActiveCheck : YES)
 
+
 ## Client specific solutions
+
+### Gorvins
+
+* [ULS Technologies console app](https://github.com/techedia/ULSTechnology) (ClientActiveCheck : YES) Not listed under generic integrations as I wouldn't advise doing this for another client
+* [LMS](https://github.com/techedia/LMSFTPandFileProcessor) Not listed under generic integrations as I wouldn't advise doing this for another client
 
 ### MoneyPlusLegal
 
