@@ -63,6 +63,9 @@
 
 * [Spectra XML funding integration](https://github.com/techedia/MoneyPlusSpectra) (ClientActiveCheck : YES)
 
+#### HooYu (KYC - Know Your Client \ client ID)
+
+* [HooYu Integration - Request and Response](https://github.com/techedia/HooYu)
 
 ## Client specific solutions
 
