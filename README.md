@@ -36,7 +36,7 @@
   - PortalIP.Core
   - PortalIP.Database
 
-### Integrations
+### Generic \ General Integrations
 
 #### SortRefer\SortMove
 
@@ -67,6 +67,10 @@
 
 * [HooYu Integration - Request and Response](https://github.com/techedia/HooYu)
 
+#### UClaim4Me - case instructions
+
+* [UClaim4Me - New plevin case import](https://github.com/techedia/UClaim4Me) (ClientActiveCheck : YES)
+
 ## Client specific solutions
 
 ### Gorvins
@@ -85,7 +89,6 @@
 
 ### Keller Lenkner
 
-* [UClaim4Me - New plevin case import](https://github.com/techedia/UClaim4Me)
 * [Secret Commission Lawyers - New plevin case import with documents](https://github.com/techedia/KLSCLDocProcessing)
 * [c2solutions Acumen API integration](https://github.com/techedia/c2solution-Acumen-API)
 
